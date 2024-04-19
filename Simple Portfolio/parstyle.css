@@ -1,0 +1,9 @@
+
+/* ---- particles.js container ---- */
+#particles-js{
+  width: 120%;
+  height: 200%;
+  background-color:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(m.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
